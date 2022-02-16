@@ -1,5 +1,3 @@
-#c:\users\sanabrid\github\no_built_in_methods
-
 from t import *
 
 print("Welcome to my stats program!")
