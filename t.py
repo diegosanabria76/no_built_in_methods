@@ -23,7 +23,7 @@ class my_stats:
         n = int(input("How many numbers do you want to enter ?"))
 
         for i in range(0,n):
-            num = int(input("please enter a number"))
+            num = int(input("please enter a number : "))
             list.append(num)
         return list
 
